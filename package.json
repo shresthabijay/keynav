@@ -1,6 +1,7 @@
 {
   "name": "keynav-utils",
   "displayName": "KeyNav",
+  "publisher": "shresthabijay",
   "description": "Helps you navigate vertically between the empty lines in your code. Also adds additional commands to move up/down by N lines.",
   "version": "0.0.1",
   "engines": {
